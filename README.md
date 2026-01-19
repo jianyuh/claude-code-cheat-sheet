@@ -1,7 +1,5 @@
 # Claude Code Cheat Sheet (Beta)
 
-![Alt text](images/claude-code-cheat-sheet.png)
-
 > **Your complete guide to mastering Claude Code - from zero to hero in minutes!**
 
 After testing Claude Code extensively, I've developed this comprehensive cheat sheet that will take you from basic to advanced user without wasting time. Whether you're completely new to Claude Code or looking to master advanced features, this guide has you covered.
